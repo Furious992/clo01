@@ -1,4 +1,4 @@
-# Домашнее задание: Организация сети (Yandex Cloud + Terraform)
+# Домашнее задание: Организация сети (Yandex Cloud + Terraform) Перцев Максим
 
 ## Описание
 
@@ -54,4 +54,8 @@
 
 ---
 
-
+![](https://github.com/Furious992/clo01/blob/main/1.png)
+![](https://github.com/Furious992/clo01/blob/main/2.png)
+![](https://github.com/Furious992/clo01/blob/main/3.png)
+![](https://github.com/Furious992/clo01/blob/main/4.png)
+![](https://github.com/Furious992/clo01/blob/main/5.png)
